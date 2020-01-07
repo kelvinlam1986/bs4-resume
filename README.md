@@ -1,1 +1,1 @@
-#BS4 Photo sharing with gulp file and SASS
+#BS4 Resume with gulp file and SASS
